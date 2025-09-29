@@ -8,7 +8,7 @@ Production-ready scripts to deploy and maintain **[n8n](https://n8n.io)** on you
 - 💾 **Backups** before every upgrade  
 - ♻️ **Auto-upgrade** via cron or systemd timer  
 
-> **Live example:** [https://cloud.codt.io](https://cloud.codt.io)
+
 
 ---
 
