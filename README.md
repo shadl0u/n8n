@@ -9,8 +9,6 @@ This setup is designed for:
 - 🔄 **One-command upgrades**
 - 🕒 **Weekly auto-updates**
 
-> 🧠 Example production domain: [https://cloud.codt.io](https://cloud.codt.io)
-
 ---
 
 ## 🧰 Requirements
@@ -31,7 +29,7 @@ curl -fsSL https://raw.githubusercontent.com/shadl0u/n8n/main/install-n8n-with-d
 ```
 
 You’ll be prompted for:
-- 🌍 Your domain name (e.g. `cloud.codt.io`)
+- 🌍 Your domain name (e.g. `your-domain`)
 - 📧 Email (for Let’s Encrypt SSL)
 - 👤 Username and 🔑 password (for basic auth)
 - 🔐 PostgreSQL password (internal use)
@@ -194,7 +192,7 @@ If you ever need to revert to an older version:
 
 **CODT Cloud Engineering**  
 Maintained by [shadl0u](https://github.com/shadl0u)  
-Production instance: [https://cloud.codt.io](https://cloud.codt.io)
+Production instance: [https://your-domain](https://your-domain)
 
 ---
 
